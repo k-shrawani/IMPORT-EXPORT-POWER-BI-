@@ -1,1 +1,2 @@
-# IMPORT-EXPORT-POWER-BI-
+# IMPORT-EXPORT-DASHBOARD (POWER-BI)
+Developed an interactive Power BI dashboard to analyze a comprehensive dataset of 15,000 global import and export transactions. Utilized data visualization techniques to uncover trade patterns, including country-wise trade volumes, product category trends, shipping method preferences, and port usage. Conducted time-series analysis to identify seasonal patterns and high-value trade items, supporting data-driven insights into logistics and inventory management.
